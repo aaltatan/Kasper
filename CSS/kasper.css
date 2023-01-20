@@ -845,7 +845,7 @@ header form input:focus + label {
 /* Video */
 .video {
   position: relative;
-  background-image: url(/imgs/doodle2.jpg);
+  background-image: url(imgs/doodle2.jpg);
   background-size: contain;
   height: 50vh;
 }
